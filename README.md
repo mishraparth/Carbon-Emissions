@@ -2,7 +2,6 @@
 4-weeks Shell-Edunet Skills4Future Internship (Oct 2025 - Nov 2025)
 
 ---
-
 ##  Project Status: 30% Completed
 
 The Carbon Emissions Predictor is currently in its early development phase. So far, the following milestones have been achieved:
