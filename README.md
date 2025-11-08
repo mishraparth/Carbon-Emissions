@@ -21,5 +21,19 @@ The Carbon Emissions Predictor is currently in its early development phase. So f
 ### What this Model Will Do
 "To build and train a high-accuracy Gradient Boosting model (R² 0.65) to predict a country's 'Carbon Intensity' (CO₂ per TWh) by engineering advanced features from its national energy profile."
 
+---
+##  Project Status: 60% Completed
 
+The Carbon Emissions Predictor is now in its advanced development phase. Core modeling is complete, with smart feature engineering, simulated population and GDP, and a shift to predicting carbon intensity for better accuracy. Gradient Boosting has been implemented and evaluated, and a reusable prediction function is working. Visualizations for model performance and feature importance are also done.
+
+###  Completed
+- Feature engineering + simulated features
+- Carbon intensity as target (log-transformed)
+- Gradient Boosting model trained and evaluated
+- Prediction function + visualizations
+
+### In Progress
+- Streamlit app for interactive input and live predictions
+
+---
 
