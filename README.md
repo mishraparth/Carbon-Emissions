@@ -19,8 +19,7 @@ The Carbon Emissions Predictor is currently in its early development phase. So f
 - Exploring regression models for baseline performance
 
 ### What this Model Will Do
-Goal: Predict a country’s "Energy Score" (a custom index I built) based on its complete energy profile.
-This model is guaranteed to be accurate because I engineered the target variable. This proves my ML pipeline works.
+"To build and train a high-accuracy Gradient Boosting model (R² 0.65) to predict a country's 'Carbon Intensity' (CO₂ per TWh) by engineering advanced features from its national energy profile."
 
 
 
