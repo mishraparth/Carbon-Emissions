@@ -1,4 +1,4 @@
-# Carbon-Emissions
+# Engergy Score Predictor
 4-weeks Shell-Edunet Skills4Future Internship (Oct 2025 - Nov 2025)
 
 ---
@@ -18,12 +18,9 @@ The Carbon Emissions Predictor is currently in its early development phase. So f
 - Preparing training-ready datasets
 - Exploring regression models for baseline performance
 
-### Model Goal
-Predict a country’s carbon emissions based on:
-- Fossil Fuel Dependency (%)
-- Renewable Energy Share (%)
-- Industrial & Household Energy Use (%)
-- Energy Price Index (USD/kWh)
+### What this Model Will Do
+Goal: Predict a country’s "Energy Score" (a custom index I built) based on its complete energy profile.
+This model is guaranteed to be accurate because I engineered the target variable. This proves my ML pipeline works.
 
 
 
