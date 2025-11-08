@@ -1,4 +1,4 @@
-# Engergy Score Predictor
+# Carbon Emissions Predictor
 4-weeks Shell-Edunet Skills4Future Internship (Oct 2025 - Nov 2025)
 
 ---
