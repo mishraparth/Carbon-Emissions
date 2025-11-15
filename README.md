@@ -34,6 +34,17 @@ The Carbon Emissions Predictor is now in its advanced development phase. Core mo
 
 ### In Progress
 - Streamlit app for interactive input and live predictions
-
 ---
 
+---
+## Project Status: 100% complete
+
+This project predicts a country's Carbon Intensity (CO₂ per TWh) using advanced feature engineering and a trained Gradient Boosting model. It now includes a fully functional Streamlit app for live predictions, hosted on Streamlit Cloud.
+
+Streamlit App
+- Interactive input form for energy profile
+- Live prediction output (Million Tons per TWh)
+- Deployed on Streamlit Cloud
+- Modular code with saved model, scaler, and feature names
+website url:  https://carbon-em-cal.streamlit.app
+---
